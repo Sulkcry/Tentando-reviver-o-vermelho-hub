@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sulkcry/Tentando-reviver-o-vermelho-hub/refs/heads/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sulkcry/Yy/refs/heads/main/README.md?token=GHSAT0AAAAAADFIFN7QP4DIT324MG7HANQQ2CEGQTA"))()
