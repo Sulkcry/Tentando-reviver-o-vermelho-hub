@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sulkcry/Yy/refs/heads/main/README.md?token=GHSAT0AAAAAADFIFN7QP4DIT324MG7HANQQ2CEGQTA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sulkcry/Part-2-do-mneu/refs/heads/main/README.md"))()
